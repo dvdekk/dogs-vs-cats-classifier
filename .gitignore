@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# TensorFlow / Keras models (są za duże)
+*.keras
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
